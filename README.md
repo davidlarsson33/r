@@ -15,15 +15,15 @@ This table shows various technologies with their corresponding logos.
 <div align="center">
 <table>
     <tr>
-        <td>
+        <td align="center">
             <div>NEXT AUTH</div>
             <img src="./readme/auth.png" alt="NEXT AUTH" height="100px">
         </td>
-        <td>
+        <td align="center">
             <div>CSS</div>
             <img src="./readme/css.png" alt="CSS" height="100px">
         </td>
-        <td>
+        <td align="center">
             <div>NODE JS</div>
             <img src="./readme/node.png" alt="NODE JS" height="100px">
         </td>
@@ -51,21 +51,21 @@ This table shows various technologies with their corresponding logos.
             <div>TAILWIND</div>
             <img src="./readme/tailwind.png" alt="TAILWIND" width="60%" height="100px">
         </td>
-        <td>
+        <td align="center">
             <div>SCRAPY</div>
             <img src="./readme/scrapy.png" alt="SCRAPY" height="100px">
         </td>
     </tr>
     <tr>
-        <td>
+        <td align="center">
             <div>JS</div>
             <img src="./readme/js.png" alt="JS" height="100px">
         </td>
-        <td>
+        <td align="center">
             <div>RECAPTCHA</div>
             <img src="./readme/recaptcha.png" alt="RECAPTCHA" height="100px">
         </td>
-        <td>
+        <td align="center">
             <div>MONGODB</div>
             <img src="./readme/mongo.png" alt="MONGODB" height="100px">
         </td>
