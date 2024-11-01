@@ -13,7 +13,8 @@ Some of the technologies involved in this project are:
 
 |                  REACT                   |                  TAILWIND                   |                    SCRAPY                  |
 | :-------------------------------------: | :--------------------------------------: | :-------------------------------------: |
-| <img src="./readme/react.png" height="100px"> | <img src="./readme/tailwind.png" height="100px"> | <img src="./readme/scrapy.png" height="100px"> |
+| <img src="./readme/react.png" width="100%" height="100px"> | <img src="./readme/tailwind.png" width="100%" height="100px"> | <img src="./readme/scrapy.png" width="100%" height="100px"> |
+
 
 |                  NEXT AUTH                   |                   CSS                    |                    NODE JS                 |
 | :-------------------------------------------: | :------------------------------------: | :-------------------------------------: |
