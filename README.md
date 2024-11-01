@@ -14,22 +14,21 @@ This table contains 4 columns and 3 rows, where each cell has a title and an ima
 
 
 
+|                  REACT                   |                  TAILWIND                   |                    SCRAPY                  |
+| :-------------------------------------: | :--------------------------------------: | :-------------------------------------: |
+| <img src="./readme/react.png" height="100px"> | <img src="./readme/tailwind.png" height="100px"> | <img src="./readme/scrapy.png" height="100px"> |
 
-|                  CSS                  |                  JS                    |                    JSX                 |
-| :-------------------------------------------: | :------------------------------------------: | :------------------------------------------: |
-| <img src="./assets/react.png" height="100px"> | <img src="./assets/sass.png" height="100px"> | <img src="./assets/gulp.png" height="100px"> | 
+|                  NEXT AUTH                   |                   CSS                    |                    NODE JS                 |
+| :-------------------------------------------: | :------------------------------------: | :-------------------------------------: |
+| <img src="./readme/auth.png" height="100px"> | <img src="./readme/css.png" height="100px"> | <img src="./assets/gulp.png" height="100px"> |
 
-|                  UI Library                   |                   Styling                    |                    Workflow automation                 |
-| :-------------------------------------------: | :------------------------------------------: | :------------------------------------------: |
-| <img src="./assets/react.png" height="100px"> | <img src="./assets/sass.png" height="100px"> | <img src="./assets/gulp.png" height="100px"> | 
+|                  JS                   |                   JSX                    |                    MONGODB                 |
+| :-------------------------------------------: | :------------------------------------: | :-------------------------------------: |
+| <img src="./assets/react.png" height="100px"> | <img src="./assets/sass.png" height="100px"> | <img src="./assets/gulp.png" height="100px"> |
 
-|                  UI Library                   |                   Styling                    |                    Workflow automation                 |
-| :-------------------------------------------: | :------------------------------------------: | :------------------------------------------: |
-| <img src="./assets/react.png" height="100px"> | <img src="./assets/sass.png" height="100px"> | <img src="./assets/gulp.png" height="100px"> | 
-
-|                  UI Library                   |                   Styling                    |                    Workflow automation                 |
-| :-------------------------------------------: | :------------------------------------------: | :------------------------------------------: |
-| <img src="./assets/react.png" height="100px"> | <img src="./assets/sass.png" height="100px"> | <img src="./assets/gulp.png" height="100px"> | 
+|                  STRIPE                   |                   NEXT JS                    |                    VERCEL                 |
+| :-------------------------------------------: | :------------------------------------: | :-------------------------------------: |
+| <img src="./assets/react.png" height="100px"> | <img src="./assets/sass.png" height="100px"> | <img src="./assets/gulp.png" height="100px"> |
 
 <br>
 
