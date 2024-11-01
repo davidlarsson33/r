@@ -24,7 +24,7 @@ This table contains 4 columns and 3 rows, where each cell has a title and an ima
 
 |                  JS                   |                   JSX                    |                    MONGODB                 |
 | :-------------------------------------------: | :------------------------------------: | :-------------------------------------: |
-| <img src="./readme/js.png" height="100px"> | <img src="./readme/jsx.png" height="100px"> | <img src="./readme/mongo.png" height="100px"> |
+| <img src="./readme/js.png" height="100px"> | <img src="./readme/jsx_.png" height="100px"> | <img src="./readme/mongo.png" height="100px"> |
 
 
 |                  STRIPE                   |                   NEXT JS                    |                    VERCEL                 |
