@@ -29,21 +29,21 @@ This table shows various technologies with their corresponding logos.
         </td>
     </tr>
     <tr>
-        <td>
+        <td align="center">
             <div>STRIPE</div>
             <img src="./readme/stripe.png" alt="STRIPE" height="100px">
         </td>
-        <td>
+        <td align="center">
             <div>NEXT JS</div>
             <img src="./readme/next.png" alt="NEXT JS" height="100px">
         </td>
-        <td>
+        <td align="center" >
             <div>VERCEL</div>
             <img src="./readme/vercel.png" alt="VERCEL" height="100px">
         </td>
     </tr>
     <tr>
-        <td>
+        <td align="center">
             <div>REACT</div>
             <img src="./readme/react.png" alt="REACT" width="100%" height="100px">
         </td>
