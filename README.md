@@ -47,9 +47,9 @@ This table shows various technologies with their corresponding logos.
             <div>REACT</div>
             <img src="./readme/react.png" alt="REACT" width="100%" height="100px">
         </td>
-        <td>
+        <td align="center">
             <div>TAILWIND</div>
-            <img src="./readme/tailwind.png" alt="TAILWIND" width="60%" algign="center" height="100px">
+            <img src="./readme/tailwind.png" alt="TAILWIND" width="60%" height="100px">
         </td>
         <td>
             <div>SCRAPY</div>
