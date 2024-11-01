@@ -29,7 +29,7 @@ This table shows various technologies with their corresponding logos.
         </td>
         <td>
             <div>NODE JS</div>
-            <img src="./readme/node.png" alt="NODE JS" height="100px">
+            <img src="./readme/node.png" alt="NODE JS" style="width: 60%; display: block; margin: 0 auto;"  height="100px">
         </td>
     </tr>
     <tr>
@@ -43,17 +43,17 @@ This table shows various technologies with their corresponding logos.
         </td>
         <td>
             <div>VERCEL</div>
-            <img src="./readme/vercel.png" alt="VERCEL" height="100px">
+            <img src="./readme/vercel.png" alt="VERCEL" style="width: 60%; display: block; margin: 0 auto;" height="100px">
         </td>
     </tr>
     <tr>
         <td>
             <div>REACT</div>
-            <img src="./readme/react.png" alt="REACT" width="60%" height="100px">
+            <img src="./readme/react.png" alt="REACT" style="width: 60%; display: block; margin: 0 auto;" height="100px">
         </td>
         <td>
             <div>TAILWIND</div>
-            <img src="./readme/tailwind.png" alt="TAILWIND" width="60%" height="100px">
+            <img src="./readme/tailwind.png" alt="TAILWIND" style="width: 60%; display: block; margin: 0 auto;" height="100px">
         </td>
         <td>
             <div>SCRAPY</div>
@@ -63,11 +63,11 @@ This table shows various technologies with their corresponding logos.
     <tr>
         <td>
             <div>JS</div>
-            <img src="./readme/js.png" alt="JS" height="100px">
+            <img src="./readme/js.png" alt="JS" style="width: 60%; display: block; margin: 0 auto;" height="100px">
         </td>
         <td>
             <div>RECAPTCHA</div>
-            <img src="./readme/recaptcha.png" alt="RECAPTCHA" height="100px">
+            <img src="./readme/recaptcha.png" alt="RECAPTCHA" style="width: 60%; display: block; margin: 0 auto;" height="100px">
         </td>
         <td>
             <div>MONGODB</div>
