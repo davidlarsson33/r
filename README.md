@@ -49,7 +49,7 @@ This table shows various technologies with their corresponding logos.
         </td>
         <td>
             <div>TAILWIND</div>
-            <img src="./readme/tailwind.png" alt="TAILWIND" width="100%" height="100px">
+            <img src="./readme/tailwind.png" alt="TAILWIND" width="60%" algign="center" height="100px">
         </td>
         <td>
             <div>SCRAPY</div>
