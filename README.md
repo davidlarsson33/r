@@ -2,18 +2,17 @@ This is an E-Commerce project built with many different fontend & backedn techno
 
 Check out the website here: ///
 
-PetShop is an onlie store where the user can perform different activities. A user can create an account by providing user defined creadentials or by using a provider like google or github. An account is required in order to "purchace" products on the website. Nota beiene: no real payments are involved in this project. 
+PetShop is an onlie store where the user can perform different activities. A user can create an account by providing user defined creadentials or by using a provider like google or github. An account is required in order to "purchace" products on the website. Nota beiene: no real payments are involved in this project.
 
-
-Python has been used for webscraping/webcrawling in order to obtain pictures and descriptions of various products. A python libriryary called scrapy has been used for this purpose. 
+Python has been used for webscraping/webcrawling in order to obtain pictures and descriptions of various products. A python libriryary called scrapy has been used for this purpose.
 
 Some of the technologies involved in this project are:
-
 
 # Image Table
 
 This table shows various technologies with their corresponding logos.
 
+<div align="center">
 <table>
     <tr>
         <td>
@@ -72,11 +71,10 @@ This table shows various technologies with their corresponding logos.
         </td>
     </tr>
 </table>
-
+ </div>
 <br>
 
 <br>
-
 
 Some of the API:s used:
 Recaptcha
