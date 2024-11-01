@@ -1,16 +1,18 @@
-This is an E-Commerce project built with many different fontend & backedn technologies, as well various API:s.
+# PetShop E-Commerce Website
 
-Check out the website here: ///
+Welcome to PetShop – an E-Commerce platform designed with a robust tech stack and comprehensive features, blending various frontend and backend technologies alongside multiple APIs.
 
-PetShop is an onlie store where the user can perform different activities. A user can create an account by providing user defined creadentials or by using a provider like google or github. An account is required in order to "purchace" products on the website. Nota beiene: no real payments are involved in this project.
+**Explore the website here:** [Live Demo](https://www.google.se/?hl=sv)
 
-Python has been used for webscraping/webcrawling in order to obtain pictures and descriptions of various products. A python libriryary called scrapy has been used for this purpose.
+PetShop offers an online store experience where users can register using custom credentials or a provider like Google or GitHub. An account is required to "purchase" items, though note that no real transactions or payments are processed in this project. Logged-in users can view their order history, update profile information, and even delete their accounts.
 
-Some of the technologies involved in this project are:
+### Key Features
+- **Product Search & Filtering**: Quickly find products with search functionality, and refine results by brand, rating, and price range.
+- **Product Details & Zoom**: View product details, zoom in on images, and gain additional information about each item.
+- **User Authentication with NextAuth**: This project features secure user authentication, enabling seamless account creation and login via custom credentials or third-party providers like Google and GitHub
 
-# Image Table
-
-This table shows various technologies with their corresponding logos.
+### Tech Stack
+The following tools and technologies power this project:
 
 <div align="center">
 <table>
@@ -58,8 +60,8 @@ This table shows various technologies with their corresponding logos.
     </tr>
     <tr>
         <td align="center">
-            <div>JS</div>
-            <img src="./readme/js.png" alt="JS" height="100px">
+            <div>JAVASCRIPT</div>
+            <img src="./readme/js.png" alt="JAVASCRIPT" height="100px">
         </td>
         <td align="center">
             <div>RECAPTCHA</div>
@@ -71,11 +73,4 @@ This table shows various technologies with their corresponding logos.
         </td>
     </tr>
 </table>
- </div>
-<br>
-
-<br>
-
-Some of the API:s used:
-Recaptcha
-Nexth auth
+</div>
