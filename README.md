@@ -26,6 +26,7 @@ This table contains 4 columns and 3 rows, where each cell has a title and an ima
 | :-------------------------------------------: | :------------------------------------: | :-------------------------------------: |
 | <img src="./readme/js.png" height="100px"> | <img src="./readme/jsx.png" height="100px"> | <img src="./readme/mongo.png" height="100px"> |
 
+
 |                  STRIPE                   |                   NEXT JS                    |                    VERCEL                 |
 | :-------------------------------------------: | :------------------------------------: | :-------------------------------------: |
 | <img src="./readme/stripe.png" height="100px"> | <img src="./readme/next.png" height="100px"> | <img src="./readme/vercel.png" height="100px"> |
