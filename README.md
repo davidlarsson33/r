@@ -11,27 +11,70 @@ Some of the technologies involved in this project are:
 
 
 
-<div align="center" >
+<div align="center"  >
 
+# Image Table
 
+This table shows various technologies with their corresponding logos.
 
-|                  NEXT AUTH                   |                   CSS                    |                    NODE JS                 |
-| :-------------------------------------------: | :------------------------------------: | :-------------------------------------: |
-| <img src="./readme/auth.png" height="100px"> | <img src="./readme/css.png" height="100px"> | <img src="./readme/node.png" height="100px"> |
-
-
-|                  STRIPE                   |                   NEXT JS                    |                    VERCEL                 |
-| :-------------------------------------------: | :------------------------------------: | :-------------------------------------: |
-| <img src="./readme/stripe.png" height="100px"> | <img src="./readme/next.png" height="100px"> | <img src="./readme/vercel.png" height="100px"> |
-
-|                  REACT                   |                  TAILWIND                   |                    SCRAPY                  |
-| :-------------------------------------: | :--------------------------------------: | :-------------------------------------: |
-| <img src="./readme/react.png" width="100%" height="100px"> | <img src="./readme/tailwind.png" width="100%" height="100px"> | <img src="./readme/scrapy.png" width="100%" height="100px"> |
-
-|                  JS                   |                   RECAPTCHA                    |                    MONGODB                 |
-| :-------------------------------------------: | :------------------------------------: | :-------------------------------------: |
-| <img src="./readme/js.png" height="100px"> | <img src="./readme/recaptcha.png" height="100px"> | <img src="./readme/mongo.png" height="100px"> |
-
+<table>
+    <tr>
+        <td>
+            <div>NEXT AUTH</div>
+            <img src="./readme/auth.png" alt="NEXT AUTH" height="100px">
+        </td>
+        <td>
+            <div>CSS</div>
+            <img src="./readme/css.png" alt="CSS" height="100px">
+        </td>
+        <td>
+            <div>NODE JS</div>
+            <img src="./readme/node.png" alt="NODE JS" height="100px">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <div>STRIPE</div>
+            <img src="./readme/stripe.png" alt="STRIPE" height="100px">
+        </td>
+        <td>
+            <div>NEXT JS</div>
+            <img src="./readme/next.png" alt="NEXT JS" height="100px">
+        </td>
+        <td>
+            <div>VERCEL</div>
+            <img src="./readme/vercel.png" alt="VERCEL" height="100px">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <div>REACT</div>
+            <img src="./readme/react.png" alt="REACT" width="60%" height="100px">
+        </td>
+        <td>
+            <div>TAILWIND</div>
+            <img src="./readme/tailwind.png" alt="TAILWIND" width="60%" height="100px">
+        </td>
+        <td>
+            <div>SCRAPY</div>
+            <img src="./readme/scrapy.png" alt="SCRAPY" height="100px">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <div>JS</div>
+            <img src="./readme/js.png" alt="JS" height="100px">
+        </td>
+        <td>
+            <div>RECAPTCHA</div>
+            <img src="./readme/recaptcha.png" alt="RECAPTCHA" height="100px">
+        </td>
+        <td>
+            <div>MONGODB</div>
+            <img src="./readme/mongo.png" alt="MONGODB" height="100px">
+        </td>
+    </tr>
+</table>
 
 
 </div>
